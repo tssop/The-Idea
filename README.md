@@ -60,3 +60,4 @@ Available via Riot.IM as @karl:matrix.ctseuro.com .
 
 Stage: Idea / Planing
 
+<img src="https://kmj.at/images/tssop/TSSOP-20180315.jpg" border="0">
