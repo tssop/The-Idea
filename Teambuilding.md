@@ -6,8 +6,8 @@ Actually I decided to setup a community and different rooms inside the Riot.IM M
 
 ## Status of the team:
 
-- Karl (Austria) - over 30 years IT experience
-- Markus (Germany) - over 15 years IT experience
+- Karl (Austria) - over 30 years IT experience @karl:matrix.ctseuro.com
+- Markus (Germany) - over 15 years IT experience @markus:matrix.ctseuro.com
 
 I am looking to meet developers, experienced with Tor, Encryption, Linux, Mac OSX, Windows and mobile devices.
 
