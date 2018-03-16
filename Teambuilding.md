@@ -14,3 +14,5 @@ I am looking to meet developers, experienced with Tor, Encryption, Linux, Mac OS
 Love to hear from you on Riot.IM. Looking forward to discuss the idea! 
 
 Available via Riot.IM as **@karl:matrix.ctseuro.com** .
+
+## Statusupdates
