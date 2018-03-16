@@ -3,11 +3,16 @@
 ## The Idea (Version 0.1)
 
 Slowly also the slowest ones understands the danger of huge companies collecting as much data as possible about humans using the net. The train already left in direction of more privacy, sharing data only with selected people, avoiding data miners and companies making 97% of their money out of knowing as much as possible about users. As usual the smart ones are first and already moving to <a href=”https://kmj.at/2018-03-12-riot-im-messenger-kurzanleitung-fuer-benutze-updated/” target=”_blank”>Riot Messenger</a>, Mastodon Micro Blogging, self hosted clouds with e.g. OwnCloud and much more. 
+
 Community is missing a tool to replace their social network without the hassles of setting up servers, or registering at some other service. Meanwhile even mobile devices are strong enough to handle service the users profile, blog and messages via the Tor network. 
+
 The idea is to make it very easy for non techie users. Download and start the Software, enter your “Display Name” and you are on. Tor hidden service onion address and everything else must be created fully auto without user intervention. Non techie have no idea of certificates and other stuff, they will leave in minutes if they don’t understand what to do.
+
 Connection to others using QR codes or typing the onion address and the connection is established.
+
 Non techies only need to know that all of their content is hold encrypted on their device, no commercial provider is involved to store all of their sensitive data. Furthermore all communication is encrypted and information is shared peer-to-peer only between the devices communicating. Using the Tor network even their IP address is hidden to the devices they are communicating with. 
-Privacy as needed by people even they don’t understand the tech details. 
+
+**Privacy as needed by people even they don’t understand the tech details. **
 
 
 
